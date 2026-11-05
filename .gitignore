@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+client_secret.json
+token.json
+*.log
+output/
+uploads/
+.DS_Store
